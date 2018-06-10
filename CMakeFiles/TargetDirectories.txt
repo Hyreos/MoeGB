@@ -1,0 +1,3 @@
+/home/hyreos/Documentos/projects/emugb/CMakeFiles/rebuild_cache.dir
+/home/hyreos/Documentos/projects/emugb/CMakeFiles/moegb.dir
+/home/hyreos/Documentos/projects/emugb/CMakeFiles/edit_cache.dir

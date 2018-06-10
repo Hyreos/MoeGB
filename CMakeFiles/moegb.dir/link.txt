@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17  -rdynamic CMakeFiles/moegb.dir/Bootstrap.cpp.o CMakeFiles/moegb.dir/Cartrigbe.cpp.o CMakeFiles/moegb.dir/Cpu.cpp.o CMakeFiles/moegb.dir/System.cpp.o CMakeFiles/moegb.dir/main.cpp.o  -o bin/moegb -lsfml-window -lsfml-graphics -lsfml-system 
